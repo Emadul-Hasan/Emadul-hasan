@@ -7,9 +7,32 @@
 ![](https://komarev.com/ghpvc/?username=emadul-hasan&color=blueviolet)
 
 📫 E-mail: emadul.hasan87@gmail.com
-	</div>
-<p style="float:right;width: 40%;" align="right">
-  <img src="https://user-images.githubusercontent.com/56286558/213849259-82b06072-3149-4b12-a748-f10d8d75ad05.gif" alt="animated" />
+		
+<p align="right>![skills]()
+
+  <img src="https://user-images.githubusercontent.com/56286558/213905300-116e9c52-a77f-4d3d-9040-00535d7395c2.gif" alt="animated" />
 </p>
+<h3>Top Projects:</h3>
+		
+<b>Soil Respiration chamber mobile app</b>
+		
+		
+<b>Soil Respiration chamber Desktop app</b>
+		
+<b>Inventory Management flutter</b>.
+
+
+<b>BLE splash X mobile app</b>
+
+
+<b>BLE splash X firmware</b>
+		
+<b>Clokk.in</b>
+	</div>
+	<div  style="float:right;width: 40%;" align="right">
+		</div>
 </div>
+
+
+
 
