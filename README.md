@@ -20,7 +20,7 @@
 
 <h3 align="left">On going projects:</h3>
 <ul align="left">
-<li>WoW chat</li>
+<li>Gcommerce</li>
 </ul>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadul-hasan&show_icons=true&locale=en&layout=compact" alt="emadul-hasan" /></p>
