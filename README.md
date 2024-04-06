@@ -10,6 +10,7 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul align="left">
+<li>5V 2A AC/DC adapter</li>
 <li>Soil Respiration chamber mobile app</li>
 <li>Soil Respiration chamber Desktop app</li>
 <li>Inventory Management flutter</li>
@@ -20,7 +21,7 @@
 
 <h3 align="left">On going projects:</h3>
 <ul align="left">
-<li>Gcommerce</li>
+<li>Porikkhon</li>
 </ul>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadul-hasan&show_icons=true&locale=en&layout=compact" alt="emadul-hasan" /></p>
