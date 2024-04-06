@@ -10,7 +10,7 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul align="left">
-<li><a href="https://github.com/Emadul-Hasan/AC_DC_Adapter_5V_2A">5V 2A AC/DC adapter</a>a</li>
+<li><a href="https://github.com/Emadul-Hasan/AC_DC_Adapter_5V_2A">5V 2A AC/DC adapter</a></li>
 <li>Soil Respiration chamber mobile app</li>
 <li>Soil Respiration chamber Desktop app</li>
 <li>Inventory Management flutter</li>
