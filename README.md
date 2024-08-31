@@ -10,13 +10,15 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul align="left">
-<li><a href="https://github.com/Emadul-Hasan/AC_DC_Adapter_5V_2A">5V 2A AC/DC adapter</a></li>
+<li>12V 2A AC/DC adapter</li>
+<li>5V 2A AC/DC adapter</li>
 <li>Soil Respiration chamber mobile app</li>
 <li>Soil Respiration chamber Desktop app</li>
 <li>Inventory Management flutter</li>
 <li>BLE splash X mobile app</li>
 <li>BLE splash X firmware</li>
 <li>Clokk.in</li>
+<li><a href="https://github.com/Emadul-Hasan/portfolio">Checkout my portfolio here</a></li>
 </ul>
 
 <h3 align="left">On going projects:</h3>
