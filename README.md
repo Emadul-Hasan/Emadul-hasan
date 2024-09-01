@@ -18,7 +18,7 @@
 <li>BLE splash X mobile app</li>
 <li>BLE splash X firmware</li>
 <li>Clokk.in</li>
-<li><a href="https://github.com/Emadul-Hasan/portfolio">Checkout my portfolio here</a></li>
+<li><a href="https://github.com/Emadul-Hasan/portfolio">Check my portfolio here</a></li>
 </ul>
 
 <h3 align="left">On going projects:</h3>
