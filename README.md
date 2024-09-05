@@ -24,6 +24,8 @@
 <h3 align="left">On going projects:</h3>
 <ul align="left">
 <li>Porikkhon</li>
+<li>BLDC Fan PCBA</li>
+<li>24V 5A Power Supply</li>
 </ul>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadul-hasan&show_icons=true&locale=en&layout=compact" alt="emadul-hasan" /></p>
