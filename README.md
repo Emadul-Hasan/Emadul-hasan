@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, I'm Emadul Hasan</h2>
 
-<h5 align="center">Embedded System Engineer & Flutter developer</h5>
+<h5 align="center">Embedded Hardware Engineer</h5>
 
 ![](https://komarev.com/ghpvc/?username=emadul-hasan&color=blueviolet)
 
