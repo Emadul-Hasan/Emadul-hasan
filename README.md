@@ -10,7 +10,7 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul align="left">
-<li>BJIT SBC V2.0 (not Completed yet)</li>
+<li>BJIT SBC V2.0 (RK3399 Based)</li>
 <li>BJIT SBC V1.0 (AMD based)</li>  
 <li>Gun Shot Detection sensor</li> 
 <li>BLDC Fan controller</li>   
